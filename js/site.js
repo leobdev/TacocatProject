@@ -1,4 +1,7 @@
-//Call Hello World
-function helloWorld() {
-    alert("Hello Wolrd");
+//get value
+function getValue(){
+    //get user string from the page
+
+    
+
 }
