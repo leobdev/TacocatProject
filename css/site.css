@@ -11,12 +11,12 @@
  }
 
  nav {
-    background-color: var(--dark-color);
+     background-color: #9a8312;
  }
  
  footer {
 
-    background-color: var(--dark-color);
+   background-color: #9a8312;
     padding-right: 1rem;
  }
 
@@ -26,7 +26,7 @@
  }
 
  h1,h2,h3,h4,h5,h6 {
-    color: var(--primary-color);
+    color: var(--dark-color);
  }
  
  main>.container {
@@ -73,3 +73,8 @@ footer .social > a:hover {
             word-break: break-all;
             word-wrap: break-word;
         }
+
+
+#tacocat-title {
+    font-family: 'Press Start 2P', cursive;
+}
